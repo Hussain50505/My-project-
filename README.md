@@ -19,7 +19,3 @@ To create a bar chart and histogram showing population distribution by age and g
 **Name:** Hussain Reddy  
 **College:** Acharya Nagarjuna University  
 **Roll No:** Y23DS3301  
-
-### Internship Details:
-SkillCraft Technology Internship (Data Science Domain)  
-Duration: 03/02/2025 to 15/04/2025
